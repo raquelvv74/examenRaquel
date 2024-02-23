@@ -1,2 +1,2 @@
 # examenRaquel
-Examen de Raquel Vales Vilas
+Proyecto creado por Raquel Vales Vilas para el examen de la UT3 de Entornos de Desarrollo
